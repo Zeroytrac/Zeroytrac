@@ -31,7 +31,7 @@
 
 <br clear="right"/>
 
-## `> ./skills --list`
+
 
 <div align="center">
 
