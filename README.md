@@ -17,14 +17,7 @@
 
 <img align="right" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" width="230" alt="matrix" />
 
-## `> cat about.txt`
 
-```bash
-$ user      : Zeroytrac
-$ location  : Tallinn, Estonia 🇪🇪
-$ status    : building agents, bots & brands
-$ uptime    : always online
-$ motto     : "automate everything"
 ```
 
 ## `> ls ./current_projects`
@@ -51,7 +44,7 @@ $ motto     : "automate everything"
 
 </div>
 
-## `> ./stats --live`
+
 
 <div align="center">
 
@@ -62,7 +55,7 @@ $ motto     : "automate everything"
 
 </div>
 
-## `> ./contact --secure`
+
 
 <div align="center">
 
