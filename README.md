@@ -20,14 +20,7 @@
 
 ```
 
-## `> ls ./current_projects`
 
-```diff
-+ [██████████] multi-agent AI dashboard
-+ [████████░░] crypto trading automation
-+ [██████░░░░] e-com store engine
-! more classified...
-```
 
 <br clear="right"/>
 
